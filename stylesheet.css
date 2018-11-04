@@ -1,0 +1,129 @@
+
+h1{
+color:black;    
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+line-height: 3.5
+}
+
+p.blue{
+    
+    color:aqua;
+        font-size 30px;
+        font-family: Helvetica;    
+
+} 
+
+h6{
+
+color:black;    
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+
+}
+
+
+h5{
+color:pink;    
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+font-weight: 200
+}
+
+
+    
+}
+h3{
+    color:pink;    
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14x;
+font-weight: 200    
+    
+
+p.test1{
+    
+ color:pink;    
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14x;
+font-weight: 200      
+
+
+<style>
+    body{
+  background-image: url("Assets/Images/5584890365_f2a1eb90f5.jpg")
+}
+ 
+
+
+        color:aqua;
+        font-size 10px;
+        font-family: Helvetica;
+
+}        
+
+p.victory{
+
+color: blue;
+font-family: Arial
+font-size: 10;
+font-weight: 20
+    p.blue{
+        
+        
+color:azure
+    }
+}
+
+p.test1{
+    
+    color:aqua;
+}
+p.contact1{
+    
+    
+color:red
+}
+
+p.Education{
+    
+color:red
+line-height: 2;
+    
+}
+
+p. skills{
+color:red;
+line-height: normal
+p.Resume1{
+        
+color:red;
+line-height: 2;
+    }
+
+    
+p.Index1{
+
+color: red;
+border-left-width: inherit
+    
+    
+    
+    
+    }
+
+p.index2{
+    
+color: red
+    
+    }
+    
+    p.message{
+        
+color: mediumvioletred;
+        
+    }    
+    
+    
+}
+</style>
+    }
